@@ -1,0 +1,16 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="baitap/baitap.vcxproj" />
+  <Project Path="baitap10/baitap10.vcxproj" />
+  <Project Path="baitap2/baitap2.vcxproj" />
+  <Project Path="baitap3/baitap3.vcxproj" />
+  <Project Path="baitap4/baitap4.vcxproj" />
+  <Project Path="baitap5/baitap5.vcxproj" />
+  <Project Path="baitap6/baitap6.vcxproj" />
+  <Project Path="baitap7/baitap7.vcxproj" />
+  <Project Path="baitap8/baitap8.vcxproj" />
+  <Project Path="baitap9/baitap9.vcxproj" />
+</Solution>
